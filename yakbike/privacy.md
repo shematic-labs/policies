@@ -21,4 +21,4 @@ technical constraints of Android. Location of user is not collected.
 
 ## Contact us
 
-The point of contact for all issues arising from this Policy is <contact@shematic.ch>.
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at <contact@shematic.ch>.
