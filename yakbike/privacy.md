@@ -1,4 +1,4 @@
-# Privacy Policy
+# Yakbike Privacy Policy
 
 *Last updated: January 9th, 2023*
 
