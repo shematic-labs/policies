@@ -3,7 +3,7 @@
 *Last updated: January 9th, 2023*
 
 Shematic SA, based at "route de la Galaise 34, C/o Fongit, CH-1228 Plan-les-Ouates, Switzerland", builds the Yakbike vehicle, 
-its related website https://yakbike.ch and the Yakbike application for Android and iOS.
+its related website <https://yakbike.ch> and the Yakbike application for Android and iOS.
 
 ## Updates
 
@@ -14,7 +14,7 @@ We will not reduce your rights under this Privacy Policy without your explicit c
 
 ## What we collect
 
-Keep things simple. The website https://yakbike.ch and the Yakbike application for Android and iOS do not collect or share any user data.
+Keep things simple. The website <https://yakbike.ch> and the Yakbike application for Android and iOS do not collect or share any user data.
 
 The application uses Bluetooth to connect to Yakbike vehicles only. The location service is required for Android versions lower than 12 because of 
 technical constraints of Android. Location of user is not collected.
